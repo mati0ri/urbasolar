@@ -1,0 +1,2005 @@
+[
+  {
+    "Equipment": {
+      "designation": "Point de livraison",
+      "equipment_model": null,
+      "equipment_type": {
+        "label": "Poste de Livraison"
+      },
+      "equipment_type_id": 1,
+      "issues": [],
+      "last_active_power": null,
+      "last_communication": null,
+      "last_total_energy": null,
+      "serial": null,
+      "alerts": []
+    },
+    "EquipmentTreeChild": [
+      {
+        "Equipment": {
+          "designation": "PTR 1",
+          "equipment_model": null,
+          "equipment_type": {
+            "label": "Poste de Transformation"
+          },
+          "equipment_type_id": 28,
+          "issues": [],
+          "last_active_power": null,
+          "last_communication": null,
+          "last_total_energy": null,
+          "serial": null,
+          "alerts": []
+        },
+        "EquipmentTreeChild": [
+          {
+            "Equipment": {
+              "designation": "Onduleur n°1",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6046.6,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 263548,
+              "serial": "A22A0508246",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 1,
+                "id": 18397,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18391,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18395,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18393,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18392,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18396,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18394,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18387,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18388,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18386,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18390,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18389,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 1,
+            "depth": 2,
+            "equipment_id": 100206,
+            "id": 101290,
+            "position_number": 1,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 95.79656532420574
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°10",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 5869.3,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 264555,
+              "serial": "A22A1700033",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 1,
+                "id": 18502,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18498,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18503,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18505,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18500,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18497,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18499,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18494,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18504,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18495,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18496,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18501,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 10,
+            "depth": 2,
+            "equipment_id": 100215,
+            "id": 101299,
+            "position_number": 10,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 94.8570853831297
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°11",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6094.4,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 263955,
+              "serial": "A2291902367",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 1,
+                "id": 18515,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18506,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18509,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18507,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18513,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18516,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18510,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18512,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18508,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18511,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18514,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18517,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 11,
+            "depth": 2,
+            "equipment_id": 100216,
+            "id": 101300,
+            "position_number": 11,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 92.58484038861646
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°12",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6178.1,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 280104,
+              "serial": "A2291902302",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18520,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18524,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18526,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18521,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18529,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18522,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18518,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18523,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18525,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18519,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18528,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18527,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 12,
+            "depth": 2,
+            "equipment_id": 100217,
+            "id": 101301,
+            "position_number": 12,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 100
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°13",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6388.2,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 311130,
+              "serial": "A2291902385",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18532,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18531,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18533,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18534,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18530,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18536,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18537,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18538,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18540,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 1,
+                "id": 18541,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18539,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18535,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.535
+              }
+            ],
+            "bus_address": 13,
+            "depth": 2,
+            "equipment_id": 100218,
+            "id": 101302,
+            "position_number": 13,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 96.92735202970377
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°14",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 5273.6,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 268956,
+              "serial": "A2291902354",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18546,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18547,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18551,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18544,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18548,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18553,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18552,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18549,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18550,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18542,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18545,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18543,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 14,
+            "depth": 2,
+            "equipment_id": 100219,
+            "id": 101303,
+            "position_number": 14,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 98.69353048068147
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°2",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6791.9,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 264322,
+              "serial": "A22A1700017",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18404,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18405,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18409,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18399,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18400,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18403,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18408,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18401,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18407,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18406,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18402,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18398,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 2,
+            "depth": 2,
+            "equipment_id": 100207,
+            "id": 101291,
+            "position_number": 2,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 97.12807607533279
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°3",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6978.8,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 264229,
+              "serial": "A22A1700021",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18412,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18419,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18415,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18410,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18416,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18421,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18414,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18411,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18417,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18418,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18413,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18420,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 3,
+            "depth": 2,
+            "equipment_id": 100208,
+            "id": 101292,
+            "position_number": 3,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 94.69118700333303
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°4",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6840.6,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 273489,
+              "serial": "A22A0508152",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18424,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18425,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18433,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18432,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18426,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18422,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18429,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18431,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18428,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18427,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18430,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18423,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 4,
+            "depth": 2,
+            "equipment_id": 100209,
+            "id": 101293,
+            "position_number": 4,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 92.8795268242926
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°5",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6162,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 262624,
+              "serial": "A22A0508184",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18438,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18441,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18444,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18439,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18435,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18437,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18442,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18434,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18436,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18443,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18440,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18445,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 5,
+            "depth": 2,
+            "equipment_id": 100210,
+            "id": 101294,
+            "position_number": 5,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 90.18714012711646
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°6",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 7580.6,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 308732,
+              "serial": "A22A1700025",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18447,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18452,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18449,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 1,
+                "id": 18457,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18451,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18454,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18453,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18456,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18455,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18446,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18450,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18448,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.535
+              }
+            ],
+            "bus_address": 6,
+            "depth": 2,
+            "equipment_id": 100211,
+            "id": 101295,
+            "position_number": 6,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 93.65991032996524
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°7",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 5944.5,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 296107,
+              "serial": "A22B1300011",
+              "alerts": [
+                {
+                  "id_alerte": 9851362,
+                  "equipment_type": "inverter",
+                  "id_equipment": 100212,
+                  "alert_type": "Rendement Pspec"
+                }
+              ]
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18463,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18465,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18458,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18462,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18467,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 1,
+                "id": 18469,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18459,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18461,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18464,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18466,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18460,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.535
+              },
+              {
+                "branches": 2,
+                "id": 18468,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.535
+              }
+            ],
+            "bus_address": 7,
+            "depth": 2,
+            "equipment_id": 100212,
+            "id": 101296,
+            "position_number": 7,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 69.97950013071419
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°8",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6868.6,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 277443,
+              "serial": "A22A0508162",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 1,
+                "id": 18478,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18473,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18474,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18477,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18480,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18471,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18481,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18479,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18472,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18476,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18475,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18470,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 8,
+            "depth": 2,
+            "equipment_id": 100213,
+            "id": 101297,
+            "position_number": 8,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 94.46024215810758
+          },
+          {
+            "Equipment": {
+              "designation": "Onduleur n°9",
+              "equipment_model": {
+                "equipment_brand": {
+                  "label": "SUNGROW"
+                },
+                "label": "SG250HX"
+              },
+              "equipment_type": {
+                "label": "Onduleur"
+              },
+              "equipment_type_id": 4,
+              "issues": [],
+              "last_active_power": 6795.8,
+              "last_communication": "2025-01-14T08:20:00.000Z",
+              "last_total_energy": 279435,
+              "serial": "A22B0734701",
+              "alerts": []
+            },
+            "InverterInput": [
+              {
+                "branches": 2,
+                "id": 18488,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "G",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18483,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "B",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18485,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "D",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18487,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "F",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18486,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "E",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18490,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "I",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18493,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "L",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18489,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "H",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18482,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "A",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 2,
+                "id": 18484,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "C",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18491,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "J",
+                "orientation": 0,
+                "power_per_module": 0.54
+              },
+              {
+                "branches": 1,
+                "id": 18492,
+                "inclinaison": 15,
+                "modules_per_branch": 27,
+                "mppt_key": "K",
+                "orientation": 0,
+                "power_per_module": 0.54
+              }
+            ],
+            "bus_address": 9,
+            "depth": 2,
+            "equipment_id": 100214,
+            "id": 101298,
+            "position_number": 9,
+            "letterGroup": "A",
+            "EquipmentTreeChild": [],
+            "efficiency": 96.82799964475952
+          }
+        ],
+        "InverterInput": [],
+        "bus_address": null,
+        "depth": 1,
+        "equipment_id": 100205,
+        "id": 101289,
+        "position_number": 1,
+        "letterGroup": null
+      }
+    ],
+    "InverterInput": [],
+    "bus_address": null,
+    "depth": 0,
+    "equipment_id": 100204,
+    "id": 101288,
+    "position_number": 1,
+    "letterGroup": null
+  }
+]
